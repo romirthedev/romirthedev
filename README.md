@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romirthedev
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java & Algorithms
-- 📫 romptl8@gmail.com
+- 📫 Direct Message
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Enjoy learning about Q. Computing
 
