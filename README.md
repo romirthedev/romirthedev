@@ -7,3 +7,5 @@ yes, a lot of my works are private.
 
 also a side project involves cracking college admissions - more on that later. 
 
+I also love taking billion-dollar tools and making them free
+
