@@ -1,2 +1,3 @@
-i do fun stuff. @ cmu + bespoke labs + mit \n
+i do fun stuff. @ cmu + bespoke labs + mit 
+
 did fun stuff before @ caltech + agenthub
